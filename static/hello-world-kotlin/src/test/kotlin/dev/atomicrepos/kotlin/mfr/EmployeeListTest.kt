@@ -59,7 +59,7 @@ class EmployeeListTest {
             Employee(
                 firstName = "Samir",
                 lastName = "Nagheenanajar",
-                jobTitle = JobTitle.DBA,
+                jobTitle = JobTitle.WEB_DEVELOPER,
                 startDate = LocalDate.of(
                     1999,
                     Month.FEBRUARY,
